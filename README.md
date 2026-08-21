@@ -1,18 +1,25 @@
-GRCbit - Governance, Risk and Compliance Software (GRC)
+# OWASP IT GRC, fork de estudo
 
-URL:    http://dev.grcbit.cloud:8000/demo
+> Este repositório é um fork oficial de [OWASP/www-project-it-grc](https://github.com/OWASP/www-project-it-grc).
 
-User:   admin@email.com
+## Finalidade
 
-Passwd: Password01
+Esta cópia é mantida por Alan Nogueira para estudo de plataformas de Governança, Riscos e Conformidade. O código e a autoria original pertencem ao projeto upstream e aos respectivos contribuidores.
 
-Author:  rodolfo.lopez@grcbit.com
+Não há, neste momento, alterações autorais relevantes que justifiquem apresentar este repositório como projeto próprio. Para documentação, versões atuais, problemas e contribuições, consulte o [repositório oficial do OWASP](https://github.com/OWASP/www-project-it-grc).
 
-GRCbit is software developed in python/web2py that will help you automate and centralize IT Risk management in your organization (Governance, Risk and Compliance), to have greater control over your operations, processes and critical systems. It is based on best practices of risk management and internal control such as COSO, ISO 31000, COBIT, NIST, CVSS3.1, so any company, regardless of its type or size, can use it, which will bring benefits such as: Compliance with laws and regulations, reduce fraud, reduce operational errors, protect critical data and information systems.
+## Segurança
 
-Note: The project is in the process of code refactoring.
+Credenciais antigas de demonstração foram removidas deste README. Nunca reutilize credenciais públicas ou estáticas em ambientes próprios.
 
-![](static/images/readme1.png)
-![](static/images/readme2.png)
-![](static/images/readme3.png)
-![](static/images/readme4.png)
+Antes de qualquer uso corporativo:
+
+- revise o código e as dependências;
+- valide a licença e o histórico do projeto upstream;
+- configure autenticação e segredos por meios seguros;
+- execute testes de segurança em ambiente isolado;
+- não utilize dados corporativos ou pessoais em uma demonstração pública.
+
+## Status
+
+Fork de referência e estudo. Não é apresentado no perfil de Alan Nogueira como trabalho autoral.
